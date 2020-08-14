@@ -355,7 +355,6 @@ DOMAIN-SUFFIX,click.hm.baidu.com,REJECT
 DOMAIN-SUFFIX,cm.baichuan.baidu.com,REJECT
 DOMAIN-SUFFIX,cm.pos.baidu.com,REJECT
 DOMAIN-SUFFIX,cpro.baidustatic.com,REJECT
-DOMAIN-SUFFIX,cpro.tieba.baidu.com,REJECT
 DOMAIN-SUFFIX,cpro2.baidustatic.com,REJECT
 DOMAIN-SUFFIX,dup.baidustatic.com,REJECT
 DOMAIN-SUFFIX,f10.baidu.com,REJECT
